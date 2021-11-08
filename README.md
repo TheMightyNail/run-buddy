@@ -11,7 +11,7 @@ A website that offers fitness training services.
 https://themightynail.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Ian Linton
+Made with ❤️ by Ian Linton!
 
 
 ### ©️2019 Run Buddy, Inc 
